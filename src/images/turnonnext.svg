@@ -1,25 +1,25 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="535" height="341" viewBox="0 0 535 341">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="600" height="600" viewBox="0 0 600 600">
   <defs>
-    <filter id="Rectangle_6" x="4" y="197" width="527" height="143" filterUnits="userSpaceOnUse">
+    <filter id="Rectangle_6" x="37" y="327" width="527" height="143" filterUnits="userSpaceOnUse">
       <feOffset dy="3" input="SourceAlpha"/>
       <feGaussianBlur stdDeviation="3" result="blur"/>
       <feFlood flood-opacity="0.161"/>
       <feComposite operator="in" in2="blur"/>
       <feComposite in="SourceGraphic"/>
     </filter>
-    <clipPath id="clip-turnonext">
-      <rect width="535" height="341"/>
+    <clipPath id="clip-turnonnext">
+      <rect width="600" height="600"/>
     </clipPath>
   </defs>
-  <g id="turnonext" clip-path="url(#clip-turnonext)">
-    <rect width="535" height="341" fill="#fff"/>
-    <g id="Group_20" data-name="Group 20" transform="translate(-53 -2362)">
+  <g id="turnonnext" clip-path="url(#clip-turnonnext)">
+    <rect width="600" height="600" fill="#fff"/>
+    <g id="Group_20" data-name="Group 20" transform="translate(-20 -2232)">
       <g id="Group_14" data-name="Group 14" transform="translate(376 2375)">
         <rect id="Rectangle_1" data-name="Rectangle 1" width="176" height="176" rx="29"/>
         <text id="f" transform="translate(59 140)" fill="#f1f1f1" font-size="129" font-family="PlayfairDisplay-Bold, Playfair Display" font-weight="700"><tspan x="0" y="0">f</tspan></text>
       </g>
-      <g transform="matrix(1, 0, 0, 1, 53, 2362)" filter="url(#Rectangle_6)">
-        <rect id="Rectangle_6-2" data-name="Rectangle 6" width="509" height="125" rx="37" transform="translate(13 203)" fill="#efefef"/>
+      <g transform="matrix(1, 0, 0, 1, 20, 2232)" filter="url(#Rectangle_6)">
+        <rect id="Rectangle_6-2" data-name="Rectangle 6" width="509" height="125" rx="37" transform="translate(46 333)" fill="#efefef"/>
       </g>
       <g id="Group_15" data-name="Group 15" transform="translate(-1519)">
         <rect id="Rectangle_7" data-name="Rectangle 7" width="98" height="22" rx="11" transform="translate(1928 2618)" fill="#94fcff"/>

@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="600" height="600" viewBox="0 0 600 600">
+  <defs>
+    <filter id="Rectangle_9" x="228" y="188" width="365" height="326" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-findfont">
+      <rect width="600" height="600"/>
+    </clipPath>
+  </defs>
+  <g id="findfont" clip-path="url(#clip-findfont)">
+    <rect width="600" height="600" fill="#fff"/>
+    <g id="Group_21" data-name="Group 21" transform="translate(-1263 -2253)">
+      <rect id="Rectangle_10" data-name="Rectangle 10" width="201" height="23" rx="3" transform="translate(1426 2382)" fill="#919191"/>
+      <rect id="Rectangle_11" data-name="Rectangle 11" width="292" height="23" rx="3" transform="translate(1280 2352)" fill="#919191"/>
+      <rect id="Rectangle_12" data-name="Rectangle 12" width="311" height="23" rx="3" transform="translate(1280 2412)" fill="#ffc48a"/>
+      <rect id="Rectangle_13" data-name="Rectangle 13" width="138" height="23" rx="3" transform="translate(1280 2382)" fill="#919191"/>
+      <g transform="matrix(1, 0, 0, 1, 1263, 2253)" filter="url(#Rectangle_9)">
+        <rect id="Rectangle_9-2" data-name="Rectangle 9" width="347" height="308" rx="18" transform="translate(237 194)" fill="#efefef"/>
+      </g>
+      <text id="Font_Name" data-name="Font Name" transform="translate(1519 2533)" fill="#8d8d8d" font-size="41" font-family="NunitoSans-Bold, Nunito Sans" font-weight="700"><tspan x="0" y="0">Font Name</tspan></text>
+      <rect id="Rectangle_14" data-name="Rectangle 14" width="311" height="23" rx="3" transform="translate(1518 2578)" fill="#d3d3d3"/>
+      <rect id="Rectangle_15" data-name="Rectangle 15" width="311" height="48" rx="3" transform="translate(1518 2618)" fill="#d3d3d3"/>
+      <rect id="Rectangle_16" data-name="Rectangle 16" width="121" height="34" rx="3" transform="translate(1518 2678)" fill="#d3d3d3"/>
+      <rect id="Rectangle_17" data-name="Rectangle 17" width="193" height="24" rx="3" transform="translate(1518 2718)" fill="#d3d3d3"/>
+    </g>
+  </g>
+</svg>

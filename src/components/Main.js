@@ -1,4 +1,4 @@
-import "./Main.css";
+import './Main.css';
 import { Typography } from '@mui/material';
 import fonts from '../images/fonts.png';
 import podcast from '../images/Podcast.svg'

@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="300" height="300" viewBox="0 0 300 300">
+  <defs>
+    <clipPath id="clip-hunid">
+      <rect width="300" height="300"/>
+    </clipPath>
+  </defs>
+  <g id="hunid" clip-path="url(#clip-hunid)">
+    <rect width="300" height="300" fill="#fff"/>
+  </g>
+</svg>
