@@ -1,7 +1,7 @@
-import './Main.css';
 import { Typography } from '@mui/material';
 import fonts from '../images/fonts.png';
 import podcast from '../images/Podcast.svg'
+import './Main.css';
 
 
 const Main = () => {

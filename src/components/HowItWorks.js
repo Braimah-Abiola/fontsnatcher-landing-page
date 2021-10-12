@@ -9,7 +9,7 @@ const HowItWorks = () => {
     return (
         <>
             <Container maxWidth="xl" sx={{ marginTop: 20, backgroundColor: "#ffffff", paddingY: 10, textAlign: "center", }}>
-                <Typography className="howitworks" variant="h2">How it works</Typography>
+                <div className="howitworks"><Typography variant="h2">How it works</Typography></div>
 
                 <div className="divver">
                     <Stack sx={{ paddingX: 5,}}>

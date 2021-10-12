@@ -7,6 +7,7 @@ import './components/HowItWorks.css';
 import Navbar from './components/Navbar';
 import Main from './components/Main';
 import HowItWorks from './components/HowItWorks';
+import Coming from './components/Coming';
 
 function App() {
   return (
@@ -14,6 +15,7 @@ function App() {
       <Navbar/>
       <Main/>
       <HowItWorks/>
+      <Coming/>
     </div>
   );
 }

@@ -1,0 +1,29 @@
+.waitlist-btn{
+    color: #ffffff;
+    background-color: #000000;
+    border: 3px solid #000000;
+    padding: 15px 60px;
+    font-family: 'Nunito Sans', sans-serif;
+    font-weight: 700;
+    transition: 0.4s;
+  }
+.waitlist-btn:hover{
+    background-color: #ffffff;
+    color: #000000;
+    cursor: pointer;
+}
+
+.fna h4{
+    word-wrap: break-word;
+    width: 700px;
+    font-family: 'Playfair Display', sans-serif;
+    font-weight: 700;
+}
+
+.fnb{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    gap: 40px;
+}
