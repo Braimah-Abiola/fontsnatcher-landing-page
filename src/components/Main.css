@@ -5,19 +5,19 @@
     text-align: center;
 }
 
-.header1{
+.clutch h1{
     font-family: 'Nunito Sans', sans-serif;
     font-weight: 700;
     margin-top: 160px;
 }
+.clutch h4{
+    font-family: 'Nunito Sans', sans-serif;
+    color: #7E7E7E;
+}
+
 .img-fonts{
     position: relative;
     top: 30px;
-}
-
-.header2{
-    font-family: 'Nunito Sans', sans-serif;
-    color: #7E7E7E;
 }
 
 .hiw-btn{
@@ -30,6 +30,7 @@
     font-size: 20px;
     margin-top: 50px;
     transition: 0.4s;
+    z-index: 1;
   }
 .hiw-btn:hover{
     background-color: #67d1ff;
@@ -37,5 +38,6 @@
   }
 
   .img-podcast{
-      margin: -200px auto;
+      margin: 0px auto;
+      margin-top: 150px;
   }

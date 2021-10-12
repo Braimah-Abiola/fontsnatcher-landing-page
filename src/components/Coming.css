@@ -13,9 +13,9 @@
     cursor: pointer;
 }
 
-.fna h4{
+.fna h3{
     word-wrap: break-word;
-    width: 700px;
+    width: 800px;
     font-family: 'Playfair Display', sans-serif;
     font-weight: 700;
 }
