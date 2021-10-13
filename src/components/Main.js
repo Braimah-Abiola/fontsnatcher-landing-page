@@ -1,4 +1,5 @@
 import { Typography } from '@mui/material';
+import { Link } from 'react-scroll';
 import fonts from '../images/fonts.png';
 import podcast from '../images/Podcast.svg'
 import './Main.css';
@@ -12,9 +13,11 @@ const Main = () => {
                 <Typography className="header2" variant="h4">Fontsnatcher is a Chrome extension for designers and developers 
                 that<br/> answers the question, "What font is this website using?"</Typography>
             </div>
-            <button className="hiw-btn">
-                See How it works
-            </button>
+            <Link to="hiw" spy={true} smooth={true}>
+                <button className="hiw-btn">
+                    See How it works
+                </button>
+            </Link>
 
             <div className="illustration">
                 <img className="img-podcast" src={podcast} alt="podcast-svg"/>

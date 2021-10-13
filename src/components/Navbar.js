@@ -16,7 +16,14 @@ const Navbar = () => {
                     />
 
                 {/* Join Waitlist Button */}
-                <button className="firstWaitlist-btn">Join the waitlist</button>
+                <button 
+                    className="firstWaitlist-btn"
+                    onClick={(e) => {
+                            e.preventDefault();
+                            window.location.href='https://p5g2mgu7p79.typeform.com/to/EPzyoBex';
+                        }}>
+                    Join the waitlist
+                </button>
                 </Toolbar>
             </AppBar>
         </>
