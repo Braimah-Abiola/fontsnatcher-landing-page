@@ -13,3 +13,13 @@
     word-wrap: break-word;
     width: 300px;
 }
+
+@media screen and (max-width: 576px){
+    .divver{
+        display: flex;
+        flex-direction: column;
+        gap: 60px;
+        justify-content: center;
+        align-items: center;
+    }
+}

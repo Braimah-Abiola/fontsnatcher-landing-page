@@ -2,10 +2,18 @@ import "./HowItWorks.css";
 import turnonnext from '../images/turnonnext.svg';
 import findfont from '../images/findfont.svg';
 import selectelmnt from '../images/selectelmnt.svg';
+import json2mq from "json2mq";
+import { useMediaQuery } from "@mui/material";
 import { Container, Stack, Typography } from '@mui/material';
 
 
 const HowItWorks = () => {
+    const matches = useMediaQuery(
+        json2mq({
+            minWidth: 600,
+        })
+    );
+
     return (
         <>
             <Container maxWidth="xl" sx={{ marginTop: 20, backgroundColor: "#ffffff", paddingY: 10, textAlign: "center", }}>
