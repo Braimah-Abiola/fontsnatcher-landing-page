@@ -1,4 +1,4 @@
-import { Grid, Typography } from '@mui/material';
+import { Typography } from '@mui/material';
 import './Coming.css';
 import bigfont from '../images/bigfont.png';
 
