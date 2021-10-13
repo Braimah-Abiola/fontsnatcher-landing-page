@@ -16,7 +16,7 @@ const Navbar = () => {
                     />
 
                 {/* Join Waitlist Button */}
-                <button className="waitlist-btn">Join the waitlist</button>
+                <button className="firstWaitlist-btn">Join the waitlist</button>
                 </Toolbar>
             </AppBar>
         </>

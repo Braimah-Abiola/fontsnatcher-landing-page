@@ -5,7 +5,7 @@
     cursor: pointer;
   }
   
-.waitlist-btn{
+.firstWaitlist-btn{
     color: #ffffff;
     background-color: #000000;
     border: 3px solid #000000;
@@ -14,8 +14,14 @@
     font-weight: 600;
     transition: 0.4s;
   }
-.waitlist-btn:hover{
+.firstWaitlist-btn:hover{
     background-color: #ffffff;
     color: #000000;
     cursor: pointer;
+  }
+
+  @media screen and (max-width: 576px) {
+    .firstWaitlist-btn{
+      
+    }
   }
