@@ -17,7 +17,7 @@ const Main = () => {
             </button>
 
             <div className="illustration">
-                <img className="img-podcast" src={podcast} alt="podcast-svg" width="700"/>
+                <img className="img-podcast" src={podcast} alt="podcast-svg"/>
             </div>
         </div>
     )
