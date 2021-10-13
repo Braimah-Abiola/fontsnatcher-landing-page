@@ -7,7 +7,7 @@ const Coming = () => {
     return (
         <>
             <div className="coming-grid">
-                <Typography className="fna" variant="h3">Fontsnatcher is currently in development and will be out very soon! Join the waitlist now to get any updates</Typography>
+                <div className="fna"><Typography variant="h3">Fontsnatcher is currently in development and will be out very soon! Join the waitlist now to get any updates</Typography></div>
                 <div className="fnb">
                     <img width="230" src={bigfont} alt="bigfont"/>
                     <button className="waitlist-btn">Join the waitlist</button>
