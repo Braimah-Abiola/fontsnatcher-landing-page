@@ -14,7 +14,7 @@ const Coming = () => {
                         className="waitlist-btn"
                         onClick={(e) => {
                             e.preventDefault();
-                            window.location.href='https://p5g2mgu7p79.typeform.com/to/EPzyoBex';
+                            window.location.href='https://92xkwgtfi67.typeform.com/to/EOgZww2N';
                         }}>
                         Join the waitlist
                     </button>
